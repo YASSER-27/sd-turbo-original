@@ -12,7 +12,7 @@
 
 
 
-![overview](img/overview.png)
+![overview](img/40b95a727708fbf9.gif)
 
 
 ## Features
@@ -110,11 +110,7 @@ ROOT:
 1.  **تحميل النموذج:** قم بتحميل أوزان SD Turbo من مستودع Hugging Face الرسمي: https://huggingface.co/stabilityai/sd-turbo
 2.  **إعداد المجلد:** ضع مجلد `sd_turbo_original` في مجلد المشروع.
 3.  **تشغيل التطبيق:** ضع برنامج `image_generate` بجوار مجلد `sd_turbo_original` لتشغيل التطبيق.
-"
-    }
-  }
-}
 
 ---
-**Repository created:** `sd-turbo-generator` with 1 files.
-Navigate to Repositories to view it.
+
+![overview](img/overview.png)
